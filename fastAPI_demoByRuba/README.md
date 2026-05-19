@@ -73,10 +73,8 @@ Predict the Iris class.
 * The model was trained using scikit-learn
 
 ## 📸 Project Preview
-
-## 📸 Project Preview
-
-![Image 1](Images/Image1.jpg)
+![Image 1](images/Image1.jpg)
+![Image 2](images/Image2.jpg)
 
 ### 👩‍💻 Author
 
