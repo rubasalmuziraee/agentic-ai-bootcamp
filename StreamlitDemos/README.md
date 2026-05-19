@@ -57,7 +57,7 @@ streamlit run app.py
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Built as part of a Streamlit learning lab project
 By Eng. Ruba
 
