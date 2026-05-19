@@ -85,4 +85,4 @@ Predict the Iris class.
 ---
 
 ### 👩‍💻 Author
-Built by Eng.Ruba 💻
+Built by Eng. Ruba 💻
