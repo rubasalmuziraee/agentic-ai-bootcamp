@@ -53,7 +53,8 @@ streamlit run app.py
 
 Click here to open the app:
 
-🔗 [Open Streamlit App]([https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/](https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/)
+🔗 [Open Streamlit App](https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/)
+
 
 
 ## 🎯 Learning Outcomes
