@@ -1,0 +1,22 @@
+Exerecise Instructions
+
+
+1. Read the README.md file
+– Open README.md to understand the project purpose, files, and what you’re expected to do.
+
+2. Complete the main.py file
+– Fill in any missing FastAPI code so the app can load the trained model and expose the API endpoints.
+
+3. Build and run the Docker container
+– Use the provided Dockerfile to build an image:
+
+docker build -t fastapi-app .
+docker run -p 8000:8000 fastapi-app
+
+
+4. Open the API documentation in your browser
+– Go to http://localhost:8000/docs (or http://127.0.0.1:8000/docs) to view the auto-generated Swagger UI.
+
+5. Test the API and take a screenshot
+– Use the Swagger UI to send a request (e.g. to /predict) and verify you get a successful response.
+– Capture a screenshot of the request and response as proof of completion.

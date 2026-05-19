@@ -1,0 +1,7 @@
+Exerecise Instructions
+
+1. Read README.md
+2. Complete the main.py file
+3. Run Docker container to start webserver
+4. Open localhost or 127.0.0.1/docs
+5. Interact with the API and show a successful request/response with a screenshot
