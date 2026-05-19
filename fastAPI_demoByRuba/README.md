@@ -74,12 +74,15 @@ Predict the Iris class.
 
 ## 📸 Project Preview
 
-<p align="center">
-  <img src="images/Image1.jpg" width="500"/>
+## 📸 Project Preview
 
-  <img src="images/Image2.jpg" width="500"/>
+<p align="center">
+  <img src="images/Image1.jpg" width="380" style="margin-right:10px; border-radius:10px;"/>
+  <img src="images/Image2.jpg" width="380" style="border-radius:10px;"/>
 </p>
 
-### 👩‍💻 Author
 
-### Built by Ruba 💻
+---
+
+### 👩‍💻 Author
+Built by Ruba 💻
