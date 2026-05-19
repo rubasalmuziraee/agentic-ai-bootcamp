@@ -49,11 +49,11 @@ pip install streamlit pandas
 streamlit run app.py
 ```
 
-## 🚀 or Live Demo
+## 🤩 Try Live Demo
 
 Click here to open the app:
 
-🔗 [Open Streamlit App]([https://your-app-name.streamlit.app](https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/)
+🔗 [Open Streamlit App]([https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/](https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/)
 
 
 ## 🎯 Learning Outcomes
