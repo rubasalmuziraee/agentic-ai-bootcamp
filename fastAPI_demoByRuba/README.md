@@ -72,6 +72,14 @@ Predict the Iris class.
 * Make sure all dependencies are installed inside the virtual environment.
 * The model was trained using scikit-learn
 
+## 📸 Project Preview
+
+### 🖥️ Image 1
+![Image 1](images/image1.jpg)
+
+### 📊 Image 2
+![Image 2](images/image2.jpg)
+
 ### 👩‍💻 Author
 
 ### Built by Ruba 💻
