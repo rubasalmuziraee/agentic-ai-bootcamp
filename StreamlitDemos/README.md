@@ -42,12 +42,20 @@ This project is a complete hands-on implementation of Streamlit fundamentals, in
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run?
 
 ```bash
 pip install streamlit pandas
 streamlit run app.py
 ```
+
+## 🚀 or Live Demo
+
+Click here to open the app:
+
+🔗 [Open Streamlit App]([https://your-app-name.streamlit.app](https://agentic-ai-bootcamp-bvcpecqtbojsapocgqvsrg.streamlit.app/)
+
+
 ## 🎯 Learning Outcomes
 
 * Understanding Streamlit UI components
