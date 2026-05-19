@@ -90,7 +90,12 @@ Example Response:
   "prediction": [2.34]
 }
 ```
+## 📸 Project Preview
 
+<p align="center">
+  <img src="images/imge1.png" width="380" style="margin-right:10px; border-radius:10px;"/>
+  <img src="images/imge2.png" width="380" style="border-radius:10px;"/>
+</p>
 ---
 
 ## Author
