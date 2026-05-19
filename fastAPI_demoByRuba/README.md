@@ -77,7 +77,7 @@ Predict the Iris class.
 ### 🖥️ Image 1
 ## 📸 Project Preview
 
-![Image 1](Images/image1.jpg)
+![Image 1](Images/Image1.jpg)
 
 ### 👩‍💻 Author
 
