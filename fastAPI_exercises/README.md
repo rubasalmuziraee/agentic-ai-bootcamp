@@ -90,7 +90,9 @@ Example Response:
   "prediction": [2.34]
 }
 ```
-## 📸 Project Preview
+## API Test Screenshot
+
+Successful prediction request using Swagger UI.
 
 <p align="center">
   <img src="images/imge1.png" width="380" style="margin-right:10px; border-radius:10px;"/>
