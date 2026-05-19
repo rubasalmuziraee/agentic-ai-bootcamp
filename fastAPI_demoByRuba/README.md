@@ -75,10 +75,10 @@ Predict the Iris class.
 ## 📸 Project Preview
 
 ### 🖥️ Image 1
-![Image 1](images/image1.jpg)
+![Image 1](/images/image1.jpg)
 
 ### 📊 Image 2
-![Image 2](images/image2.jpg)
+![Image 2](/images/image2.jpg)
 
 ### 👩‍💻 Author
 
