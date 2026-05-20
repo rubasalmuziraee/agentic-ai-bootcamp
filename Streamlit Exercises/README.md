@@ -40,7 +40,7 @@ A simple app that calculates Body Mass Index (BMI) based on user input:
 
 ### Screenshot:
 
-![BMI App](Streamlit Exercises/images/img1.png)
+![BMI App](./images/img1.png)
 
 ---
 
