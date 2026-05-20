@@ -65,18 +65,7 @@ A machine learning app that predicts Iris flower species using a trained model.
 
 
 ---
+## 👩‍💻 Author
 
-## ⚙️ Installation
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-```
-
-
-## ▶️ Run the Apps
-
-BMI App:
-streamlit run bmi_app.py
+Built as part of Streamlit Exercises Bootcamp 🚀
+By Eng. Ruba
