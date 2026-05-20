@@ -40,7 +40,7 @@ A simple app that calculates Body Mass Index (BMI) based on user input:
 
 ### Screenshot:
 
-![BMI App](./images/img1.png)
+![BMI App](./images/img2.png)
 
 ---
 
@@ -61,7 +61,8 @@ A machine learning app that predicts Iris flower species using a trained model.
   - Virginica
 
 ### Screenshot:
-![Iris App](.images/img2.png)
+![BMI App](./images/img1.png)
+
 
 ---
 
