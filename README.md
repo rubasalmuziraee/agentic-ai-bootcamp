@@ -88,21 +88,7 @@ This ecosystem represents the core tools, frameworks, and methodologies driving 
 </p>
 <div align="center">
 
-## 🛰️ Current Mission
 
-Turning AI concepts into deployable systems.
-
-I’m especially interested in:
-- 🇸🇦 Arabic-First AI Experiences: Tailoring language models to excel in Arabic dialects and local cultural contexts.
-- 🛡️ Reliable AI Workflows: Moving from unpredictable outputs to deterministic, production-grade pipelines.
-- 👥 Human-Centered AI Tools: Crafting intelligent software that augments human capability and enhances user experience.
-- 🤖 Production-Ready Agent Systems: Architecting multi-agent workflows that can autonomously reason, use tools, and execute complex tasks.
-- 🔮 The Future of Intelligent Software: Exploring self-optimizing frameworks and the next generation of AI-native applications.
-
-## ⚙️ Technologies & Concepts
-
-This ecosystem represents the core tools, frameworks, and methodologies driving my current developments:
-</div>
 
 
 
